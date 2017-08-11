@@ -1,3 +1,3 @@
 # coolweather
 Hello Android.
-See you again after 1month of Cheetah Mobile
+See you again after 1month in Cheetah Mobile
